@@ -1,4 +1,4 @@
-Make sure you have ffmpeg installed (if you don't have it see how in the end)
+Make sure you have ffmpeg installed (if you don't have it, see how in the end)
 
 - Download "steam_video_converter.bat"
 - Copy the path where the .m4s files are. You can usually find it in "C:\Program Files (x86)\Steam\userdata\xxxxxx\gamerecordings"
